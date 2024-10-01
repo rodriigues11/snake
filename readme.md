@@ -21,12 +21,12 @@ Este é um jogo da cobrinha (Snake) desenvolvido usando HTML, CSS e JavaScript. 
 
 1. **Clone o Repositório**
    ```bash
-   git clone https://github.com/rodriigues03/game-snake.git
+   git clone https://github.com/rodriigues11/snake.git
    ```
 
 2. **Navegue até o Diretório do Projeto**
    ```bash
-   cd game-snake
+   cd snake
    ```
 
 3. **Abra o Arquivo `index.html` em um Navegador**
